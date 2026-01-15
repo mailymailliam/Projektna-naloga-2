@@ -163,11 +163,11 @@ blockquote {
 .device-group {
   position: relative;
 float:right;
-  /* off-center start (safe on zoom) */
+
   transform: translate(1vw);
 
   margin-top:-40vh;     
-  /* center-ish base */
+  
   display: flex;
   align-items: center;
   justify-content: center;
