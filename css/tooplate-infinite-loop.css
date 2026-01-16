@@ -370,7 +370,7 @@ background-size: cover;
 
 .tm-section-title {
   font-size: 2.6rem;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .tm-intro-text {
@@ -847,4 +847,5 @@ p {
 	 height:50%;
 	 width:50%;
 }
+
 
